@@ -35,15 +35,15 @@ plugin:
     minor: 0
     patch: 22
   description: Plugin to generate a site map
-  documentation: "https://raw.githubusercontent.com/craftercms/sitemap-plugin/master/readme.md"
+  documentation: "https://raw.githubusercontent.com/craftersoftware/sitemap-plugin/master/readme.md"
   website:
     name: Sitemap Plugin
-    url: https://github.com/craftercms/sitemap-plugin
+    url: https://github.com/craftersoftware/sitemap-plugin
   media:
     screenshots:
       - title: Sitemap
         description: Sitemap
-        url: https://raw.githubusercontent.com/craftercms/sitemap-plugin/master/.crafter/screenshots/cover.png
+        url: https://raw.githubusercontent.com/craftersoftware/sitemap-plugin/master/.crafter/screenshots/cover.png
   developer:
     company:
       name: CrafterCMS
